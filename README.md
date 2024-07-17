@@ -2,7 +2,6 @@
 - 👀 I’m interested in machine learning, data science, and software development.
 - 🌱 I’m currently learning Rust and improving my skills in deep learning.
 - 💞️ I’m looking to collaborate on open-source projects related to machine learning and data analysis.
-- 📫 How to reach me: [Email](mailto:example@example.com) | [LinkedIn](https://www.linkedin.com/in/yamada-nao)
 
 <p align="left">
   <a href="https://github.com/yamada-nao/yamada-nao/">
