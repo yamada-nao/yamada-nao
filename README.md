@@ -24,7 +24,7 @@
 
 
 ## Badges
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yamada-nao&theme=tokyonight&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yamada-nao&theme=tokyonight&count_private=true&date_format=%5BY.%5Dn.j)
 
 ## GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yamada-nao&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
